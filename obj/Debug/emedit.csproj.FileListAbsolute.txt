@@ -1,0 +1,356 @@
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit\bin\Debug\emedit.exe.config
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit\bin\Debug\emedit.exe
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit\bin\Debug\emedit.pdb
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit\bin\Debug\LoginForm.dll
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit\bin\Debug\System.Buffers.dll
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit\bin\Debug\System.Memory.dll
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit\bin\Debug\System.Text.Json.dll
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit\bin\Debug\System.ValueTuple.dll
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit\bin\Debug\System.Buffers.xml
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit\bin\Debug\System.Memory.xml
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit\bin\Debug\System.Text.Json.xml
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit\bin\Debug\System.ValueTuple.xml
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit\obj\Debug\emedit.csproj.AssemblyReference.cache
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit\obj\Debug\emedit.csproj.SuggestedBindingRedirects.cache
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit\obj\Debug\emedit.Form1.resources
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit\obj\Debug\emedit.Form2.resources
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit\obj\Debug\emedit.Form3.resources
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit\obj\Debug\emedit.Form4.resources
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit\obj\Debug\emedit.Form6.resources
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit\obj\Debug\emedit.Form7.resources
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit\obj\Debug\emedit.Properties.Resources.resources
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit\obj\Debug\emedit.csproj.GenerateResource.cache
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit\obj\Debug\emedit.csproj.CoreCompileInputs.cache
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit\obj\Debug\emedit.csproj.CopyComplete
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit\obj\Debug\emedit.exe
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit\obj\Debug\emedit.pdb
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit\obj\Debug\emedit.Form5.resources
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit\obj\Debug\emedit.Form8.resources
+C:\Users\ehdrb.DESKTOP-CKNEH2E\Desktop\emedit\bin\Debug\emedit.exe.config
+C:\Users\ehdrb.DESKTOP-CKNEH2E\Desktop\emedit\bin\Debug\emedit.exe
+C:\Users\ehdrb.DESKTOP-CKNEH2E\Desktop\emedit\bin\Debug\emedit.pdb
+C:\Users\ehdrb.DESKTOP-CKNEH2E\Desktop\emedit\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ehdrb.DESKTOP-CKNEH2E\Desktop\emedit\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\ehdrb.DESKTOP-CKNEH2E\Desktop\emedit\bin\Debug\System.Buffers.dll
+C:\Users\ehdrb.DESKTOP-CKNEH2E\Desktop\emedit\bin\Debug\System.Memory.dll
+C:\Users\ehdrb.DESKTOP-CKNEH2E\Desktop\emedit\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ehdrb.DESKTOP-CKNEH2E\Desktop\emedit\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ehdrb.DESKTOP-CKNEH2E\Desktop\emedit\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ehdrb.DESKTOP-CKNEH2E\Desktop\emedit\bin\Debug\System.Text.Json.dll
+C:\Users\ehdrb.DESKTOP-CKNEH2E\Desktop\emedit\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ehdrb.DESKTOP-CKNEH2E\Desktop\emedit\bin\Debug\System.ValueTuple.dll
+C:\Users\ehdrb.DESKTOP-CKNEH2E\Desktop\emedit\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ehdrb.DESKTOP-CKNEH2E\Desktop\emedit\bin\Debug\System.Buffers.xml
+C:\Users\ehdrb.DESKTOP-CKNEH2E\Desktop\emedit\bin\Debug\System.Memory.xml
+C:\Users\ehdrb.DESKTOP-CKNEH2E\Desktop\emedit\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ehdrb.DESKTOP-CKNEH2E\Desktop\emedit\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ehdrb.DESKTOP-CKNEH2E\Desktop\emedit\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ehdrb.DESKTOP-CKNEH2E\Desktop\emedit\bin\Debug\System.Text.Json.xml
+C:\Users\ehdrb.DESKTOP-CKNEH2E\Desktop\emedit\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ehdrb.DESKTOP-CKNEH2E\Desktop\emedit\bin\Debug\System.ValueTuple.xml
+C:\Users\ehdrb.DESKTOP-CKNEH2E\Desktop\emedit\obj\Debug\emedit.csproj.AssemblyReference.cache
+C:\Users\ehdrb.DESKTOP-CKNEH2E\Desktop\emedit\obj\Debug\emedit.csproj.SuggestedBindingRedirects.cache
+C:\Users\ehdrb.DESKTOP-CKNEH2E\Desktop\emedit\obj\Debug\emedit.Form1.resources
+C:\Users\ehdrb.DESKTOP-CKNEH2E\Desktop\emedit\obj\Debug\emedit.Form2.resources
+C:\Users\ehdrb.DESKTOP-CKNEH2E\Desktop\emedit\obj\Debug\emedit.Form3.resources
+C:\Users\ehdrb.DESKTOP-CKNEH2E\Desktop\emedit\obj\Debug\emedit.Form4.resources
+C:\Users\ehdrb.DESKTOP-CKNEH2E\Desktop\emedit\obj\Debug\emedit.Form5.resources
+C:\Users\ehdrb.DESKTOP-CKNEH2E\Desktop\emedit\obj\Debug\emedit.Form6.resources
+C:\Users\ehdrb.DESKTOP-CKNEH2E\Desktop\emedit\obj\Debug\emedit.Form7.resources
+C:\Users\ehdrb.DESKTOP-CKNEH2E\Desktop\emedit\obj\Debug\emedit.Form8.resources
+C:\Users\ehdrb.DESKTOP-CKNEH2E\Desktop\emedit\obj\Debug\emedit.Properties.Resources.resources
+C:\Users\ehdrb.DESKTOP-CKNEH2E\Desktop\emedit\obj\Debug\emedit.csproj.GenerateResource.cache
+C:\Users\ehdrb.DESKTOP-CKNEH2E\Desktop\emedit\obj\Debug\emedit.csproj.CoreCompileInputs.cache
+C:\Users\ehdrb.DESKTOP-CKNEH2E\Desktop\emedit\obj\Debug\emedit.csproj.CopyComplete
+C:\Users\ehdrb.DESKTOP-CKNEH2E\Desktop\emedit\obj\Debug\emedit.exe
+C:\Users\ehdrb.DESKTOP-CKNEH2E\Desktop\emedit\obj\Debug\emedit.pdb
+C:\emedit\bin\Debug\emedit.exe.config
+C:\emedit\bin\Debug\emedit.exe
+C:\emedit\bin\Debug\emedit.pdb
+C:\emedit\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\emedit\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\emedit\bin\Debug\System.Buffers.dll
+C:\emedit\bin\Debug\System.Memory.dll
+C:\emedit\bin\Debug\System.Numerics.Vectors.dll
+C:\emedit\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\emedit\bin\Debug\System.Text.Encodings.Web.dll
+C:\emedit\bin\Debug\System.Text.Json.dll
+C:\emedit\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\emedit\bin\Debug\System.ValueTuple.dll
+C:\emedit\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\emedit\bin\Debug\System.Buffers.xml
+C:\emedit\bin\Debug\System.Memory.xml
+C:\emedit\bin\Debug\System.Numerics.Vectors.xml
+C:\emedit\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\emedit\bin\Debug\System.Text.Encodings.Web.xml
+C:\emedit\bin\Debug\System.Text.Json.xml
+C:\emedit\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\emedit\bin\Debug\System.ValueTuple.xml
+C:\emedit\obj\Debug\emedit.csproj.AssemblyReference.cache
+C:\emedit\obj\Debug\emedit.csproj.SuggestedBindingRedirects.cache
+C:\emedit\obj\Debug\emedit.Form1.resources
+C:\emedit\obj\Debug\emedit.Form2.resources
+C:\emedit\obj\Debug\emedit.Form3.resources
+C:\emedit\obj\Debug\emedit.Form4.resources
+C:\emedit\obj\Debug\emedit.Form5.resources
+C:\emedit\obj\Debug\emedit.Form6.resources
+C:\emedit\obj\Debug\emedit.Form7.resources
+C:\emedit\obj\Debug\emedit.Form8.resources
+C:\emedit\obj\Debug\emedit.Properties.Resources.resources
+C:\emedit\obj\Debug\emedit.csproj.GenerateResource.cache
+C:\emedit\obj\Debug\emedit.csproj.CoreCompileInputs.cache
+C:\emedit\obj\Debug\emedit.csproj.CopyComplete
+C:\emedit\obj\Debug\emedit.exe
+C:\emedit\obj\Debug\emedit.pdb
+C:\emedit\obj\Debug\emedit.Form9.resources
+D:\종합설\emedit\bin\Debug\emedit.exe.config
+D:\종합설\emedit\bin\Debug\emedit.exe
+D:\종합설\emedit\bin\Debug\emedit.pdb
+D:\종합설\emedit\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\종합설\emedit\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\종합설\emedit\bin\Debug\System.Buffers.dll
+D:\종합설\emedit\bin\Debug\System.Memory.dll
+D:\종합설\emedit\bin\Debug\System.Numerics.Vectors.dll
+D:\종합설\emedit\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\종합설\emedit\bin\Debug\System.Text.Encodings.Web.dll
+D:\종합설\emedit\bin\Debug\System.Text.Json.dll
+D:\종합설\emedit\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\종합설\emedit\bin\Debug\System.ValueTuple.dll
+D:\종합설\emedit\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\종합설\emedit\bin\Debug\System.Buffers.xml
+D:\종합설\emedit\bin\Debug\System.Memory.xml
+D:\종합설\emedit\bin\Debug\System.Numerics.Vectors.xml
+D:\종합설\emedit\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\종합설\emedit\bin\Debug\System.Text.Encodings.Web.xml
+D:\종합설\emedit\bin\Debug\System.Text.Json.xml
+D:\종합설\emedit\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\종합설\emedit\bin\Debug\System.ValueTuple.xml
+D:\종합설\emedit\obj\Debug\emedit.csproj.AssemblyReference.cache
+D:\종합설\emedit\obj\Debug\emedit.csproj.SuggestedBindingRedirects.cache
+D:\종합설\emedit\obj\Debug\emedit.Form1.resources
+D:\종합설\emedit\obj\Debug\emedit.Form2.resources
+D:\종합설\emedit\obj\Debug\emedit.Form3.resources
+D:\종합설\emedit\obj\Debug\emedit.Form4.resources
+D:\종합설\emedit\obj\Debug\emedit.Form5.resources
+D:\종합설\emedit\obj\Debug\emedit.Form6.resources
+D:\종합설\emedit\obj\Debug\emedit.Form7.resources
+D:\종합설\emedit\obj\Debug\emedit.Form8.resources
+D:\종합설\emedit\obj\Debug\emedit.Form9.resources
+D:\종합설\emedit\obj\Debug\emedit.Properties.Resources.resources
+D:\종합설\emedit\obj\Debug\emedit.csproj.GenerateResource.cache
+D:\종합설\emedit\obj\Debug\emedit.csproj.CoreCompileInputs.cache
+D:\종합설\emedit\obj\Debug\emedit.csproj.CopyComplete
+D:\종합설\emedit\obj\Debug\emedit.exe
+D:\종합설\emedit\obj\Debug\emedit.pdb
+E:\종합설\emedit\bin\Debug\emedit.exe.config
+E:\종합설\emedit\bin\Debug\emedit.exe
+E:\종합설\emedit\bin\Debug\emedit.pdb
+E:\종합설\emedit\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\종합설\emedit\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\종합설\emedit\bin\Debug\System.Buffers.dll
+E:\종합설\emedit\bin\Debug\System.Memory.dll
+E:\종합설\emedit\bin\Debug\System.Numerics.Vectors.dll
+E:\종합설\emedit\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\종합설\emedit\bin\Debug\System.Text.Encodings.Web.dll
+E:\종합설\emedit\bin\Debug\System.Text.Json.dll
+E:\종합설\emedit\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\종합설\emedit\bin\Debug\System.ValueTuple.dll
+E:\종합설\emedit\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\종합설\emedit\bin\Debug\System.Buffers.xml
+E:\종합설\emedit\bin\Debug\System.Memory.xml
+E:\종합설\emedit\bin\Debug\System.Numerics.Vectors.xml
+E:\종합설\emedit\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\종합설\emedit\bin\Debug\System.Text.Encodings.Web.xml
+E:\종합설\emedit\bin\Debug\System.Text.Json.xml
+E:\종합설\emedit\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\종합설\emedit\bin\Debug\System.ValueTuple.xml
+E:\종합설\emedit\obj\Debug\emedit.csproj.AssemblyReference.cache
+E:\종합설\emedit\obj\Debug\emedit.csproj.SuggestedBindingRedirects.cache
+E:\종합설\emedit\obj\Debug\emedit.Form1.resources
+E:\종합설\emedit\obj\Debug\emedit.Form2.resources
+E:\종합설\emedit\obj\Debug\emedit.Form3.resources
+E:\종합설\emedit\obj\Debug\emedit.Form4.resources
+E:\종합설\emedit\obj\Debug\emedit.Form5.resources
+E:\종합설\emedit\obj\Debug\emedit.Form6.resources
+E:\종합설\emedit\obj\Debug\emedit.Form7.resources
+E:\종합설\emedit\obj\Debug\emedit.Form8.resources
+E:\종합설\emedit\obj\Debug\emedit.Form9.resources
+E:\종합설\emedit\obj\Debug\emedit.Properties.Resources.resources
+E:\종합설\emedit\obj\Debug\emedit.csproj.GenerateResource.cache
+E:\종합설\emedit\obj\Debug\emedit.csproj.CoreCompileInputs.cache
+E:\종합설\emedit\obj\Debug\emedit.csproj.CopyComplete
+E:\종합설\emedit\obj\Debug\emedit.exe
+E:\종합설\emedit\obj\Debug\emedit.pdb
+D:\jimin\파일\emedit form9 조회\bin\Debug\emedit.exe.config
+D:\jimin\파일\emedit form9 조회\bin\Debug\emedit.exe
+D:\jimin\파일\emedit form9 조회\bin\Debug\emedit.pdb
+D:\jimin\파일\emedit form9 조회\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\jimin\파일\emedit form9 조회\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\jimin\파일\emedit form9 조회\bin\Debug\System.Buffers.dll
+D:\jimin\파일\emedit form9 조회\bin\Debug\System.Memory.dll
+D:\jimin\파일\emedit form9 조회\bin\Debug\System.Numerics.Vectors.dll
+D:\jimin\파일\emedit form9 조회\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\jimin\파일\emedit form9 조회\bin\Debug\System.Text.Encodings.Web.dll
+D:\jimin\파일\emedit form9 조회\bin\Debug\System.Text.Json.dll
+D:\jimin\파일\emedit form9 조회\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\jimin\파일\emedit form9 조회\bin\Debug\System.ValueTuple.dll
+D:\jimin\파일\emedit form9 조회\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\jimin\파일\emedit form9 조회\bin\Debug\System.Buffers.xml
+D:\jimin\파일\emedit form9 조회\bin\Debug\System.Memory.xml
+D:\jimin\파일\emedit form9 조회\bin\Debug\System.Numerics.Vectors.xml
+D:\jimin\파일\emedit form9 조회\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\jimin\파일\emedit form9 조회\bin\Debug\System.Text.Encodings.Web.xml
+D:\jimin\파일\emedit form9 조회\bin\Debug\System.Text.Json.xml
+D:\jimin\파일\emedit form9 조회\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\jimin\파일\emedit form9 조회\bin\Debug\System.ValueTuple.xml
+D:\jimin\파일\emedit form9 조회\obj\Debug\emedit.csproj.AssemblyReference.cache
+D:\jimin\파일\emedit form9 조회\obj\Debug\emedit.csproj.SuggestedBindingRedirects.cache
+D:\jimin\파일\emedit form9 조회\obj\Debug\emedit.Form1.resources
+D:\jimin\파일\emedit form9 조회\obj\Debug\emedit.Form2.resources
+D:\jimin\파일\emedit form9 조회\obj\Debug\emedit.Form3.resources
+D:\jimin\파일\emedit form9 조회\obj\Debug\emedit.Form4.resources
+D:\jimin\파일\emedit form9 조회\obj\Debug\emedit.Form5.resources
+D:\jimin\파일\emedit form9 조회\obj\Debug\emedit.Form6.resources
+D:\jimin\파일\emedit form9 조회\obj\Debug\emedit.Form7.resources
+D:\jimin\파일\emedit form9 조회\obj\Debug\emedit.Form8.resources
+D:\jimin\파일\emedit form9 조회\obj\Debug\emedit.Form9.resources
+D:\jimin\파일\emedit form9 조회\obj\Debug\emedit.Properties.Resources.resources
+D:\jimin\파일\emedit form9 조회\obj\Debug\emedit.csproj.GenerateResource.cache
+D:\jimin\파일\emedit form9 조회\obj\Debug\emedit.csproj.CoreCompileInputs.cache
+D:\jimin\파일\emedit form9 조회\obj\Debug\emedit.csproj.CopyComplete
+D:\jimin\파일\emedit form9 조회\obj\Debug\emedit.exe
+D:\jimin\파일\emedit form9 조회\obj\Debug\emedit.pdb
+C:\Users\dlsla\Downloads\emedit_수정\emedit form9 조회\bin\Debug\emedit.exe.config
+C:\Users\dlsla\Downloads\emedit_수정\emedit form9 조회\bin\Debug\emedit.exe
+C:\Users\dlsla\Downloads\emedit_수정\emedit form9 조회\bin\Debug\emedit.pdb
+C:\Users\dlsla\Downloads\emedit_수정\emedit form9 조회\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dlsla\Downloads\emedit_수정\emedit form9 조회\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\dlsla\Downloads\emedit_수정\emedit form9 조회\bin\Debug\System.Buffers.dll
+C:\Users\dlsla\Downloads\emedit_수정\emedit form9 조회\bin\Debug\System.Memory.dll
+C:\Users\dlsla\Downloads\emedit_수정\emedit form9 조회\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dlsla\Downloads\emedit_수정\emedit form9 조회\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dlsla\Downloads\emedit_수정\emedit form9 조회\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\dlsla\Downloads\emedit_수정\emedit form9 조회\bin\Debug\System.Text.Json.dll
+C:\Users\dlsla\Downloads\emedit_수정\emedit form9 조회\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dlsla\Downloads\emedit_수정\emedit form9 조회\bin\Debug\System.ValueTuple.dll
+C:\Users\dlsla\Downloads\emedit_수정\emedit form9 조회\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dlsla\Downloads\emedit_수정\emedit form9 조회\bin\Debug\System.Buffers.xml
+C:\Users\dlsla\Downloads\emedit_수정\emedit form9 조회\bin\Debug\System.Memory.xml
+C:\Users\dlsla\Downloads\emedit_수정\emedit form9 조회\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dlsla\Downloads\emedit_수정\emedit form9 조회\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dlsla\Downloads\emedit_수정\emedit form9 조회\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\dlsla\Downloads\emedit_수정\emedit form9 조회\bin\Debug\System.Text.Json.xml
+C:\Users\dlsla\Downloads\emedit_수정\emedit form9 조회\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dlsla\Downloads\emedit_수정\emedit form9 조회\bin\Debug\System.ValueTuple.xml
+C:\Users\dlsla\Downloads\emedit_수정\emedit form9 조회\obj\Debug\emedit.csproj.AssemblyReference.cache
+C:\Users\dlsla\Downloads\emedit_수정\emedit form9 조회\obj\Debug\emedit.csproj.SuggestedBindingRedirects.cache
+C:\Users\dlsla\Downloads\emedit_수정\emedit form9 조회\obj\Debug\emedit.Form1.resources
+C:\Users\dlsla\Downloads\emedit_수정\emedit form9 조회\obj\Debug\emedit.Form2.resources
+C:\Users\dlsla\Downloads\emedit_수정\emedit form9 조회\obj\Debug\emedit.Form3.resources
+C:\Users\dlsla\Downloads\emedit_수정\emedit form9 조회\obj\Debug\emedit.Form4.resources
+C:\Users\dlsla\Downloads\emedit_수정\emedit form9 조회\obj\Debug\emedit.Form5.resources
+C:\Users\dlsla\Downloads\emedit_수정\emedit form9 조회\obj\Debug\emedit.Form6.resources
+C:\Users\dlsla\Downloads\emedit_수정\emedit form9 조회\obj\Debug\emedit.Form7.resources
+C:\Users\dlsla\Downloads\emedit_수정\emedit form9 조회\obj\Debug\emedit.Form8.resources
+C:\Users\dlsla\Downloads\emedit_수정\emedit form9 조회\obj\Debug\emedit.Form9.resources
+C:\Users\dlsla\Downloads\emedit_수정\emedit form9 조회\obj\Debug\emedit.Properties.Resources.resources
+C:\Users\dlsla\Downloads\emedit_수정\emedit form9 조회\obj\Debug\emedit.csproj.GenerateResource.cache
+C:\Users\dlsla\Downloads\emedit_수정\emedit form9 조회\obj\Debug\emedit.csproj.CoreCompileInputs.cache
+C:\Users\dlsla\Downloads\emedit_수정\emedit form9 조회\obj\Debug\emedit.csproj.CopyComplete
+C:\Users\dlsla\Downloads\emedit_수정\emedit form9 조회\obj\Debug\emedit.exe
+C:\Users\dlsla\Downloads\emedit_수정\emedit form9 조회\obj\Debug\emedit.pdb
+C:\Users\ckddy\Downloads\emedit_수정\emedit\obj\Debug\emedit.csproj.AssemblyReference.cache
+C:\Users\ckddy\Downloads\emedit_수정\emedit\obj\Debug\emedit.csproj.SuggestedBindingRedirects.cache
+C:\Users\ckddy\Downloads\emedit_수정\emedit\obj\Debug\emedit.Form1.resources
+C:\Users\ckddy\Downloads\emedit_수정\emedit\obj\Debug\emedit.Form2.resources
+C:\Users\ckddy\Downloads\emedit_수정\emedit\obj\Debug\emedit.Form3.resources
+C:\Users\ckddy\Downloads\emedit_수정\emedit\obj\Debug\emedit.Form4.resources
+C:\Users\ckddy\Downloads\emedit_수정\emedit\obj\Debug\emedit.Form5.resources
+C:\Users\ckddy\Downloads\emedit_수정\emedit\obj\Debug\emedit.Form6.resources
+C:\Users\ckddy\Downloads\emedit_수정\emedit\obj\Debug\emedit.Form7.resources
+C:\Users\ckddy\Downloads\emedit_수정\emedit\obj\Debug\emedit.Form8.resources
+C:\Users\ckddy\Downloads\emedit_수정\emedit\obj\Debug\emedit.Form9.resources
+C:\Users\ckddy\Downloads\emedit_수정\emedit\obj\Debug\emedit.Properties.Resources.resources
+C:\Users\ckddy\Downloads\emedit_수정\emedit\obj\Debug\emedit.csproj.GenerateResource.cache
+C:\Users\ckddy\Downloads\emedit_수정\emedit\obj\Debug\emedit.csproj.CoreCompileInputs.cache
+C:\Users\ckddy\Downloads\emedit_수정\emedit\obj\Debug\emedit.exe
+C:\Users\ckddy\Downloads\emedit_수정\emedit\obj\Debug\emedit.pdb
+C:\Users\ckddy\Downloads\emedit_수정\emedit\bin\Debug\emedit.exe.config
+C:\Users\ckddy\Downloads\emedit_수정\emedit\bin\Debug\emedit.exe
+C:\Users\ckddy\Downloads\emedit_수정\emedit\bin\Debug\emedit.pdb
+C:\Users\ckddy\Downloads\emedit_수정\emedit\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ckddy\Downloads\emedit_수정\emedit\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\ckddy\Downloads\emedit_수정\emedit\bin\Debug\System.Buffers.dll
+C:\Users\ckddy\Downloads\emedit_수정\emedit\bin\Debug\System.Memory.dll
+C:\Users\ckddy\Downloads\emedit_수정\emedit\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ckddy\Downloads\emedit_수정\emedit\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ckddy\Downloads\emedit_수정\emedit\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ckddy\Downloads\emedit_수정\emedit\bin\Debug\System.Text.Json.dll
+C:\Users\ckddy\Downloads\emedit_수정\emedit\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ckddy\Downloads\emedit_수정\emedit\bin\Debug\System.ValueTuple.dll
+C:\Users\ckddy\Downloads\emedit_수정\emedit\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ckddy\Downloads\emedit_수정\emedit\bin\Debug\System.Buffers.xml
+C:\Users\ckddy\Downloads\emedit_수정\emedit\bin\Debug\System.Memory.xml
+C:\Users\ckddy\Downloads\emedit_수정\emedit\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ckddy\Downloads\emedit_수정\emedit\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ckddy\Downloads\emedit_수정\emedit\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ckddy\Downloads\emedit_수정\emedit\bin\Debug\System.Text.Json.xml
+C:\Users\ckddy\Downloads\emedit_수정\emedit\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ckddy\Downloads\emedit_수정\emedit\bin\Debug\System.ValueTuple.xml
+C:\Users\ckddy\Downloads\emedit_수정\emedit\obj\Debug\emedit.csproj.CopyComplete
+C:\Users\ckddy\Downloads\emedit_수정\emedit\obj\Debug\emedit.Form10.resources
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit_수정 (1)\emedit\obj\Debug\emedit.csproj.AssemblyReference.cache
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit_수정 (1)\emedit\obj\Debug\emedit.csproj.SuggestedBindingRedirects.cache
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit_수정 (1)\emedit\obj\Debug\emedit.Form1.resources
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit_수정 (1)\emedit\obj\Debug\emedit.Form10.resources
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit_수정 (1)\emedit\obj\Debug\emedit.Form2.resources
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit_수정 (1)\emedit\obj\Debug\emedit.Form4.resources
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit_수정 (1)\emedit\obj\Debug\emedit.Form5.resources
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit_수정 (1)\emedit\obj\Debug\emedit.Form6.resources
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit_수정 (1)\emedit\obj\Debug\emedit.Form7.resources
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit_수정 (1)\emedit\obj\Debug\emedit.Form8.resources
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit_수정 (1)\emedit\obj\Debug\emedit.Form9.resources
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit_수정 (1)\emedit\obj\Debug\emedit.Properties.Resources.resources
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit_수정 (1)\emedit\obj\Debug\emedit.csproj.GenerateResource.cache
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit_수정 (1)\emedit\obj\Debug\emedit.csproj.CoreCompileInputs.cache
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit_수정 (1)\emedit\obj\Debug\emedit.exe
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit_수정 (1)\emedit\obj\Debug\emedit.pdb
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit_수정 (1)\emedit\bin\Debug\emedit.exe.config
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit_수정 (1)\emedit\bin\Debug\emedit.exe
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit_수정 (1)\emedit\bin\Debug\emedit.pdb
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit_수정 (1)\emedit\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit_수정 (1)\emedit\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit_수정 (1)\emedit\bin\Debug\System.Buffers.dll
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit_수정 (1)\emedit\bin\Debug\System.Memory.dll
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit_수정 (1)\emedit\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit_수정 (1)\emedit\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit_수정 (1)\emedit\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit_수정 (1)\emedit\bin\Debug\System.Text.Json.dll
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit_수정 (1)\emedit\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit_수정 (1)\emedit\bin\Debug\System.ValueTuple.dll
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit_수정 (1)\emedit\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit_수정 (1)\emedit\bin\Debug\System.Buffers.xml
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit_수정 (1)\emedit\bin\Debug\System.Memory.xml
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit_수정 (1)\emedit\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit_수정 (1)\emedit\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit_수정 (1)\emedit\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit_수정 (1)\emedit\bin\Debug\System.Text.Json.xml
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit_수정 (1)\emedit\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit_수정 (1)\emedit\bin\Debug\System.ValueTuple.xml
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit_수정 (1)\emedit\obj\Debug\emedit.csproj.CopyComplete
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit_수정 (1)\emedit\bin\Debug\emedit.exe.manifest
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit_수정 (1)\emedit\bin\Debug\emedit.application
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit_수정 (1)\emedit\obj\Debug\emedit.TrustInfo.xml
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit_수정 (1)\emedit\obj\Debug\emedit.exe.manifest
+C:\Users\dlsla\Desktop\학교 수업\종합설계프로젝트\개발\emedit_수정 (1)\emedit\obj\Debug\emedit.application

@@ -49,12 +49,11 @@
             this.ClientSize = new System.Drawing.Size(564, 428);
             this.Controls.Add(this.button1);
             this.Name = "Form7";
-            this.Text = "Form7";
             this.Load += new System.EventHandler(this.Form7_Load);
             this.Controls.SetChildIndex(this.textid, 0);
             this.Controls.SetChildIndex(this.textpwd, 0);
             this.Controls.SetChildIndex(this.button1, 0);
-            this.ResumeLayout(true);
+            this.ResumeLayout(false);
             this.PerformLayout();
 
         }

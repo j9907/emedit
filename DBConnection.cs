@@ -8,13 +8,17 @@ using Oracle.ManagedDataAccess.Client;
 
 namespace emedit
 {
+
     public class DBConnection
     {
+       // OracleConnection Conn;
+
+        // 데이터베이스에 연결하는 connection class
         public static OracleConnection DBCon()
         {
             OracleConnection Conn;
 
-            string ConStr = "data source=(DESCRIPTION =(ADDRESS = (PROTOCOL = TCP)(HOST = pdb.emedit.co.kr)(PORT = 1521))" +
+            string ConStr = "data source=(DESCRIPTION =(ADDRESS = (PROTOCOL = TCP)(HOST = 121.125.32.217)(PORT = 1521))" +
                 "(CONNECT_DATA =(SERVER = DEDICATED)(SID = umcit))); User Id=ksedu; Password=ksedu";
             Conn = new OracleConnection(ConStr);
             return Conn;
@@ -32,5 +36,7 @@ namespace emedit
                 return null;
             }
         }
+
+        
     }
 }

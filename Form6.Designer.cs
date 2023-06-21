@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.button2 = new System.Windows.Forms.Button();
             this.textBox9 = new System.Windows.Forms.TextBox();
             this.textBox8 = new System.Windows.Forms.TextBox();
             this.textBox5 = new System.Windows.Forms.TextBox();
@@ -38,221 +39,177 @@
             this.textBox2 = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.button3 = new System.Windows.Forms.Button();
             this.textBox6 = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.textBox1 = new System.Windows.Forms.TextBox();
-            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
-            this.등록ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.조회ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.통계ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.종료ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
+            // 
+            // button2
+            // 
+            this.button2.Font = new System.Drawing.Font("굴림", 9.75F, System.Drawing.FontStyle.Bold);
+            this.button2.Location = new System.Drawing.Point(274, 378);
+            this.button2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(65, 38);
+            this.button2.TabIndex = 125;
+            this.button2.Text = "취소";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click_1);
             // 
             // textBox9
             // 
-            this.textBox9.Location = new System.Drawing.Point(148, 256);
+            this.textBox9.Location = new System.Drawing.Point(151, 224);
             this.textBox9.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.textBox9.Name = "textBox9";
             this.textBox9.Size = new System.Drawing.Size(188, 25);
-            this.textBox9.TabIndex = 106;
+            this.textBox9.TabIndex = 123;
             // 
             // textBox8
             // 
-            this.textBox8.Location = new System.Drawing.Point(148, 308);
+            this.textBox8.Location = new System.Drawing.Point(151, 275);
             this.textBox8.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.textBox8.Name = "textBox8";
+            this.textBox8.ReadOnly = true;
             this.textBox8.Size = new System.Drawing.Size(188, 25);
-            this.textBox8.TabIndex = 105;
+            this.textBox8.TabIndex = 122;
             // 
             // textBox5
             // 
-            this.textBox5.Location = new System.Drawing.Point(148, 361);
+            this.textBox5.Location = new System.Drawing.Point(151, 329);
             this.textBox5.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.textBox5.Name = "textBox5";
             this.textBox5.Size = new System.Drawing.Size(188, 25);
-            this.textBox5.TabIndex = 104;
+            this.textBox5.TabIndex = 121;
             // 
             // label9
             // 
-            this.label9.AutoSize = true;
             this.label9.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.label9.Font = new System.Drawing.Font("굴림", 9.75F, System.Drawing.FontStyle.Bold);
-            this.label9.Location = new System.Drawing.Point(12, 361);
+            this.label9.Location = new System.Drawing.Point(14, 329);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(80, 17);
-            this.label9.TabIndex = 103;
+            this.label9.Size = new System.Drawing.Size(130, 26);
+            this.label9.TabIndex = 120;
             this.label9.Text = "작성일자";
+            this.label9.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label6
             // 
-            this.label6.AutoSize = true;
             this.label6.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.label6.Font = new System.Drawing.Font("굴림", 9.75F, System.Drawing.FontStyle.Bold);
-            this.label6.Location = new System.Drawing.Point(12, 316);
+            this.label6.Location = new System.Drawing.Point(14, 278);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(77, 17);
-            this.label6.TabIndex = 102;
-            this.label6.Text = "작성자ID";
+            this.label6.Size = new System.Drawing.Size(130, 24);
+            this.label6.TabIndex = 119;
+            this.label6.Text = "작성자 ID";
+            this.label6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label4
             // 
-            this.label4.AutoSize = true;
             this.label4.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.label4.Font = new System.Drawing.Font("굴림", 9.75F, System.Drawing.FontStyle.Bold);
-            this.label4.Location = new System.Drawing.Point(12, 258);
+            this.label4.Location = new System.Drawing.Point(14, 225);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(98, 17);
-            this.label4.TabIndex = 101;
-            this.label4.Text = "거래처코드";
+            this.label4.Size = new System.Drawing.Size(130, 25);
+            this.label4.TabIndex = 118;
+            this.label4.Text = "거래처 코드";
+            this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // textBox3
             // 
-            this.textBox3.Location = new System.Drawing.Point(148, 205);
+            this.textBox3.Location = new System.Drawing.Point(151, 172);
             this.textBox3.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(188, 25);
-            this.textBox3.TabIndex = 100;
+            this.textBox3.TabIndex = 117;
             // 
             // textBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(148, 50);
+            this.textBox2.Location = new System.Drawing.Point(151, 20);
             this.textBox2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(188, 25);
-            this.textBox2.TabIndex = 99;
+            this.textBox2.TabIndex = 116;
             // 
             // label3
             // 
-            this.label3.AutoSize = true;
             this.label3.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.label3.Font = new System.Drawing.Font("굴림", 9.75F, System.Drawing.FontStyle.Bold);
-            this.label3.Location = new System.Drawing.Point(12, 207);
+            this.label3.Location = new System.Drawing.Point(14, 175);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(80, 17);
-            this.label3.TabIndex = 98;
+            this.label3.Size = new System.Drawing.Size(130, 24);
+            this.label3.TabIndex = 115;
             this.label3.Text = "종료일자";
+            this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label2
             // 
-            this.label2.AutoSize = true;
             this.label2.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.label2.Font = new System.Drawing.Font("굴림", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.label2.Location = new System.Drawing.Point(12, 52);
+            this.label2.Location = new System.Drawing.Point(14, 20);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(116, 17);
-            this.label2.TabIndex = 97;
-            this.label2.Text = "프로젝트번호";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
-            // 
-            // button3
-            // 
-            this.button3.Font = new System.Drawing.Font("굴림", 9.75F, System.Drawing.FontStyle.Bold);
-            this.button3.Location = new System.Drawing.Point(342, 403);
-            this.button3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(65, 38);
-            this.button3.TabIndex = 96;
-            this.button3.Text = "취소";
-            this.button3.UseVisualStyleBackColor = true;
+            this.label2.Size = new System.Drawing.Size(130, 24);
+            this.label2.TabIndex = 114;
+            this.label2.Text = "프로젝트 번호";
+            this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // textBox6
             // 
-            this.textBox6.Location = new System.Drawing.Point(148, 153);
+            this.textBox6.Location = new System.Drawing.Point(151, 120);
             this.textBox6.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.textBox6.Name = "textBox6";
             this.textBox6.Size = new System.Drawing.Size(188, 25);
-            this.textBox6.TabIndex = 95;
+            this.textBox6.TabIndex = 113;
             // 
             // label5
             // 
-            this.label5.AutoSize = true;
             this.label5.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.label5.Font = new System.Drawing.Font("굴림", 9.75F, System.Drawing.FontStyle.Bold);
-            this.label5.Location = new System.Drawing.Point(12, 155);
+            this.label5.Location = new System.Drawing.Point(14, 122);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(80, 17);
-            this.label5.TabIndex = 94;
+            this.label5.Size = new System.Drawing.Size(130, 24);
+            this.label5.TabIndex = 112;
             this.label5.Text = "시작일자";
+            this.label5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("굴림", 9.75F, System.Drawing.FontStyle.Bold);
-            this.button1.Location = new System.Drawing.Point(271, 403);
+            this.button1.Location = new System.Drawing.Point(208, 376);
             this.button1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(65, 38);
-            this.button1.TabIndex = 93;
-            this.button1.Text = "확인";
+            this.button1.TabIndex = 111;
+            this.button1.Text = "등록";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // label1
             // 
-            this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.label1.Font = new System.Drawing.Font("굴림", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.label1.Location = new System.Drawing.Point(12, 106);
+            this.label1.Location = new System.Drawing.Point(14, 74);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(98, 17);
-            this.label1.TabIndex = 92;
+            this.label1.Size = new System.Drawing.Size(130, 24);
+            this.label1.TabIndex = 110;
             this.label1.Text = "프로젝트명";
+            this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(148, 104);
+            this.textBox1.Location = new System.Drawing.Point(151, 71);
             this.textBox1.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(188, 25);
-            this.textBox1.TabIndex = 91;
-            // 
-            // menuStrip1
-            // 
-            this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
-            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.등록ToolStripMenuItem,
-            this.조회ToolStripMenuItem,
-            this.종료ToolStripMenuItem});
-            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
-            this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(425, 28);
-            this.menuStrip1.TabIndex = 107;
-            this.menuStrip1.Text = "menuStrip1";
-            // 
-            // 등록ToolStripMenuItem
-            // 
-            this.등록ToolStripMenuItem.Name = "등록ToolStripMenuItem";
-            this.등록ToolStripMenuItem.Size = new System.Drawing.Size(53, 26);
-            this.등록ToolStripMenuItem.Text = "등록";
-            // 
-            // 조회ToolStripMenuItem
-            // 
-            this.조회ToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.통계ToolStripMenuItem});
-            this.조회ToolStripMenuItem.Name = "조회ToolStripMenuItem";
-            this.조회ToolStripMenuItem.Size = new System.Drawing.Size(53, 26);
-            this.조회ToolStripMenuItem.Text = "조회";
-            // 
-            // 통계ToolStripMenuItem
-            // 
-            this.통계ToolStripMenuItem.Name = "통계ToolStripMenuItem";
-            this.통계ToolStripMenuItem.Size = new System.Drawing.Size(122, 26);
-            this.통계ToolStripMenuItem.Text = "통계";
-            // 
-            // 종료ToolStripMenuItem
-            // 
-            this.종료ToolStripMenuItem.Name = "종료ToolStripMenuItem";
-            this.종료ToolStripMenuItem.Size = new System.Drawing.Size(53, 26);
-            this.종료ToolStripMenuItem.Text = "종료";
+            this.textBox1.TabIndex = 109;
             // 
             // Form6
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(425, 458);
-            this.Controls.Add(this.menuStrip1);
+            this.ClientSize = new System.Drawing.Size(358, 432);
+            this.Controls.Add(this.button2);
             this.Controls.Add(this.textBox9);
             this.Controls.Add(this.textBox8);
             this.Controls.Add(this.textBox5);
@@ -263,16 +220,15 @@
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.button3);
             this.Controls.Add(this.textBox6);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.textBox1);
+            this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "Form6";
-            this.Text = "프로젝트추가";
-            this.menuStrip1.ResumeLayout(false);
-            this.menuStrip1.PerformLayout();
+            this.Text = "프로젝트등록";
+            this.Load += new System.EventHandler(this.Form6_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -280,6 +236,7 @@
 
         #endregion
 
+        private System.Windows.Forms.Button button2;
         private System.Windows.Forms.TextBox textBox9;
         private System.Windows.Forms.TextBox textBox8;
         private System.Windows.Forms.TextBox textBox5;
@@ -290,16 +247,10 @@
         private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Button button3;
         private System.Windows.Forms.TextBox textBox6;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.MenuStrip menuStrip1;
-        private System.Windows.Forms.ToolStripMenuItem 등록ToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem 조회ToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem 통계ToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem 종료ToolStripMenuItem;
     }
 }
