@@ -54,7 +54,7 @@
             this.Controls.SetChildIndex(this.textid, 0);
             this.Controls.SetChildIndex(this.textpwd, 0);
             this.Controls.SetChildIndex(this.button1, 0);
-            this.ResumeLayout(false);
+            this.ResumeLayout(true);
             this.PerformLayout();
 
         }
